@@ -1,4 +1,4 @@
-# Geneva Stroke Preprocessing - *GSprep*
+# Geneva Stroke Imaging Preprocessing - *GSprep*
 This repository hosts preprocessing tools for acute stroke imaging. 
 It has been initially created for the Geneva Stroke Dataset (GSD). 
 
